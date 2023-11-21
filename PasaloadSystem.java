@@ -32,6 +32,7 @@ public class PasaloadSystem {
             }
         }
         scan.close();
+        System.out.println("Exiting the Pasaload System. Goodbye!")
     }
 
     private static void renderHomeScreen() {
